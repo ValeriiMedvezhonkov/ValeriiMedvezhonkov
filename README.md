@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ValeriiMedvezhonkov&theme=node&show_icons=true&count_private=true&include_all_commits=true&hide=&line_height=24)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiMedvezhonkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiMedvezhonkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
