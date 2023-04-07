@@ -26,6 +26,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-valerii--medvezhonkov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-medvezhonkov/)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=ValeriiMedvezhonkov&theme=node&show_icons=true&count_private=true&include_all_commits=true&hide=&line_height=24)
+
 <!--
 **ValeriiMedvezhonkov/ValeriiMedvezhonkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
